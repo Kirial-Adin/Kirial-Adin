@@ -3,7 +3,7 @@
   <h3>Front-end (Full Stack) Developer from Russia</h3>
 </div>
 <div id="socials" align="center">
-  <a href="[t.me](https://t.me/Dark1Fox)">
+  <a href="[@Dark1Fox](https://t.me/Dark1Fox)">
     <img src="https://img.shields.io/badge/Telegram-blue?stule=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </div>
