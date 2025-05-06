@@ -11,7 +11,7 @@
 ### AboutMe
 - I'm currently learning **WebDev, Vue3&Nuxt**
 - I am constantly learning new things: I am learning a new language and new technologies
-- Reach me by [email](mailto:mineev.kirill-rabot@yandex.ru)
+- Reach me by [email](mailto:mineev.kirill-rabot@yandex.ru), [telegram](@dark1Fox)
 - I speak Russian, English
 
 ### Languages and tools
